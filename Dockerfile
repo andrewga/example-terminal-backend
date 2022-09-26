@@ -1,4 +1,4 @@
-FROM ruby:3.0.1
+FROM ruby:3.1.2
 
 RUN apk add build-base
 RUN gem install bundler:1.17.2
