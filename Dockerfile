@@ -1,4 +1,4 @@
-FROM ruby:2.7.1-alpine
+FROM ruby:3.0.1
 
 RUN apk add build-base
 RUN gem install bundler:1.17.2
