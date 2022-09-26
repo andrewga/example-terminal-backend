@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-ruby "3.1.2"
+ruby "3.1.0"
 
 gem 'dotenv', '~> 2.2'
 gem 'encrypted_cookie', '~> 0.0'
